@@ -1,0 +1,15 @@
+body {
+  margin: 4rem 0;
+}
+ 
+h4 {
+  margin-bottom:2rem;
+  margin-top: 3rem;
+}
+
+.panel {
+  border-radius: 0.3rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+
+}
